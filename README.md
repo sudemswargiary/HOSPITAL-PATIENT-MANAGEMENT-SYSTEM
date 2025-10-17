@@ -25,3 +25,7 @@ The program is console-based and demonstrates the use of **arrays**, **loops**, 
 
 5. 💰 **Show Total Bill**  
    - Calculates the total hospital bill using the formula:  
+
+
+name - sudem swargiary
+enrollment id-ADTU/0/2025-29/BCSM/056
